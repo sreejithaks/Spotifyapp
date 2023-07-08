@@ -74,7 +74,7 @@ const Login = () => {
             <input
               type="email"
               name=""
-              id="email"
+              id="email"export default 
               placeholder="Enter email"
               className="card-box"
               pattern="[a-zA-Z0-9\-]{4,10}[@][a-z]+[\.][a-z]{2,3}"
